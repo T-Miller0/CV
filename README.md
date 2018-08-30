@@ -49,5 +49,6 @@ Makers Academy is a 12 week intensive bootcamp designed to develop you into a Ju
 
 John Lewis Partnership (08/2012 - 08/2018)    
 Operational Supermarket Assistant  
+
 Oxford Brookes (09/2016)   
 Student Guider  
