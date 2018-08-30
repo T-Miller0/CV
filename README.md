@@ -3,10 +3,9 @@
 I am a University graduate who has decided to dive straight into coding at Makers Academy. I worked throughout my degree and also played 
 rugby which has given me a love of working with people. 
 
-I am currently studying at Makers Academy, upon completion I will be eager to start my first role as a Junior developer bringing my 
+I am currently studying at Makers Academy, upon completion I will be eager to start my first role as a Junior Developer bringing my 
 skills along with me. I enjoy working in a supportive and cooperative environment where I will have the opportunity to grow my skills 
-and knowledge. 
-
+and knowledge. Throughout my time as a Junior Developer I would not only like to master the language(s) I am using but also learn new languages.
 
 ## Skills
 
