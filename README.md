@@ -1,16 +1,18 @@
 ## Thomas Miller
 
-A sentence about who and what you are. Then a sentence about what you've achieved. And then a sentence about what you're looking for: what you would ideally be doing, with whom and in what environment.
+I am a University graduate who has decided to dive straight into coding at Makers Academy. I worked throughout my degree and also played rugby which has given me a love of working with people. 
+I am currently studying at Makers Academy, upon completion I will be eager to start my first role as a Junior developer bringing my skills along with me. I enjoy working in a supportive and cooperative environment where I will have the opportunity to grow my skills and knowledge. 
+
 
 ## Skills
 
-#### This Skill
+#### Communication
 
 Descriptive paragraph of how capable you are at this skill and, if relevant, how it has developed.
 
-- Experience
-- Achievements
-- Evidence
+I have played team sports from a very young age which started to develop my communication skills early on. I then progressed to county 
+level in a couple of sports which demanded a much more efficient set of communication skills. Along with sport I have worked in retail 
+for five years, both working with in a team and talking to customers.
 
 #### Another Skill
 
