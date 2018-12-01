@@ -9,7 +9,6 @@ Now I have completed my studies at Makers Academy, I am now eager to start my fi
 |Project Title | Description | Development Timeframe | Technologies | Testing Framework |
 |--------------|-------------|-----------------------|--------------|-------------------|
 |[Grow](https://github.com/T-Miller0/final-project)| A task manager with an interactive garden that pushes your tasks to your Google Calendar | 10 days | Ruby on Rails, Nodejs, React, HTML, CSS | Jest, Enzyme |
-|--------------|-------------|-----------------------|--------------|-------------------|
 |[Bank](https://github.com/T-Miller0/tech-test-Bank)| A Bank backend app | 3 days | Ruby | RSpec | 
 
 ## Skills
