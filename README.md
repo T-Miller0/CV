@@ -4,6 +4,12 @@ I am a University graduate who has decided to dive straight into coding and stud
 
 Now I have completed my studies at Makers Academy, I am now eager to start my first role as a Junior Software Developer bringing my skills along with me. I enjoy working in a supportive and cooperative environment where I will have the opportunity to grow my skills and knowledge. I am keen to learn new technologies and improve the ones that I have used.
 
+#Projects
+
+|Project Title | Description | Development Timeframe | Technologies | Testing Framework |
+|--------------|-------------|-----------------------|--------------|-------------------|
+|[Grow](https://github.com/T-Miller0/final-project)| A task manager with an interactive garden that pushes your tasks to your Google Calendar | 10 days | Ruby on Rails, Nodejs, React, HTML, CSS | Jest, Enzyme |
+
 ## Skills
 
 #### Communication and Team Work
@@ -34,6 +40,7 @@ The technologies that I have used;
 #### Other qualifications
 - Graduated from the Global Leadership Program, ran by Common Purpose
 - Advanced Scuba Diver
+= County level Rugby and Cricket
 
 ## Experience
 
