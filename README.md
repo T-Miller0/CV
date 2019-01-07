@@ -8,8 +8,9 @@ Now I have completed my studies at Makers Academy, I am now eager to start my fi
 
 |Project Title | Description | Development Timeframe | Technologies | Testing Framework |
 |--------------|-------------|-----------------------|--------------|-------------------|
-|[Grow](https://github.com/T-Miller0/final-project)| A task manager with an interactive garden that pushes your tasks to your Google Calendar | 10 days | Ruby on Rails, Nodejs, React, HTML, CSS | Jest, Enzyme |
-|[Bank](https://github.com/T-Miller0/tech-test-Bank)| A Bank backend app | 3 days | Ruby | RSpec | 
+|[Grow](https://github.com/T-Miller0/final-project)| A task manager with an interactive garden that pushes your tasks to your Google Calendar | 10 days | Ruby on Rails, Nodejs, React, HTML, CSS | Jest, Enzyme, Rspec |
+|[Bank](https://github.com/T-Miller0/tech-test-Bank)| A Bank backend app, for depositing, withdrawing and showing total balance | 3 days | Ruby | RSpec |
+|[TelaTalk](https://github.com/T-Miller0/Team-Tela)| A social media application | 10 days | Rails, Devise, Travis CI, Heroku, AWS, Rubocop, Simplecov | Rspec |
 
 ## Skills
 
@@ -20,6 +21,10 @@ I have played team sports from a very young age which started to develop my comm
 #### Time Management
 
 My time management improved while I was at University. However it improved greatly in my last year of university because of all of the commitments I had, I worked, played sport and I was renovating a property. All of these commitments required a significant amount of desired time and could not be postponed.
+
+### Attention to Detail
+
+Attention to detail was extremely important when I was renovating a property since there was time and money at stake. Throughout my time at Makers Academy the importance of the attention to detail quickly grew evermore apparent. Which quickly became a focus of mine, as it saves a lot of time spotting a mistake in some code or preventing that mistake in the first place.
 
 ## Education
 
