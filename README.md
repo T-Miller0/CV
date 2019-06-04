@@ -34,7 +34,7 @@ Attention to detail was extremely important when I was renovating a property sin
 
 Makers Academy is a 12 week intensive boot camp designed to develop your skills to become a junior Developer. Throughout this time I have learnt a lot in this short time span. I have not only learnt the coding side of being a junior developer. I have also learnt how to put my skills into use and learnt the soft skills that are needed, for example how to learn quickly and how to be a good collaborator.
 The technologies that I have used;
-- Ruby, Rails, JavaScript, React, CSS, HTML
+- Ruby, Rails, JavaScript, React, CSS, HTML, Scala
 - RSpec, Jasmine, Jest, Mocha
 - OOP, TDD
 - Agile, XP
@@ -48,7 +48,7 @@ The technologies that I have used;
 #### Other qualifications
 - Graduated from the Global Leadership Program, ran by Common Purpose
 - Advanced Scuba Diver
-= County level Rugby and Cricket
+- County level Rugby and Cricket
 
 ## Experience
 
